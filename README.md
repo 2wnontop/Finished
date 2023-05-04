@@ -1,4 +1,4 @@
-**Website**: https://cliphd.ga
+**Website**: https://2wn.netlify.app
 
 ### FAQ
 * **What do you use to host? Is it free?**
